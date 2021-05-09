@@ -8,7 +8,7 @@ For colorizing black and white images we will be using a pre-trained
 
           caffe model :- https://code.naturkundemuseum.berlin/mediaspherefornature/colorize_iiif/raw/master/experimental/model/colorization_release_v2.caffemodel
           
-          prototxt file
+          prototxt file:- https://github.com/pratyusa98/Colorize_Black_and_White_Images/blob/main/model/colorization_deploy_v2.prototxt
           
           NumPy file:- https://code.naturkundemuseum.berlin/mediaspherefornature/colorize_iiif/raw/master/experimental/model/pts_in_hull.npy
 
