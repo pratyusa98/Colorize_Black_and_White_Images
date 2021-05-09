@@ -5,8 +5,11 @@ This Deep Learning Project aims to provide colorizing black & white images with 
 In image colorization, we take a black and white image as input and produce a colored image. We will solve this project with OpenCV deep neural network.
 
 For colorizing black and white images we will be using a pre-trained 
+
           caffe model :- https://code.naturkundemuseum.berlin/mediaspherefornature/colorize_iiif/raw/master/experimental/model/colorization_release_v2.caffemodel
+          
           prototxt file
+          
           NumPy file:- https://code.naturkundemuseum.berlin/mediaspherefornature/colorize_iiif/raw/master/experimental/model/pts_in_hull.npy
 
 The prototxt file defines the network and the numpy file stores the cluster center points in numpy format.
